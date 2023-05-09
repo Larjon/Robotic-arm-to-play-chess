@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=47uEyDZwU2w
 First step download chess engine stockfish
 https://stockfishchess.org/
 
-then install requirements.txt za pomocą polecenia 
+then install requirements.txt 
 pip install -r requirements.txt
 
 
